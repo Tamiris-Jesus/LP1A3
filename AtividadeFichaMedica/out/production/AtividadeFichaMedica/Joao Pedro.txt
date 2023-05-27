@@ -1,0 +1,5 @@
+Nome: Joao Pedro
+Idade: 17 anos
+Genero: Masculino
+Altura: 1.75 metros
+Peso: 75.0 kg

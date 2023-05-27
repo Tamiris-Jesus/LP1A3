@@ -1,3 +1,5 @@
+package src;
+
 import java.io.*;
 import java.util.Scanner;
 
@@ -40,6 +42,7 @@ public class Main {
         }
 
     } while(opcao != 0);
+
    }
     // MÉTODO RESPONSÁVEL POR CRIAR A FICHA MÉDICA DE UM PACIENTE 
     public static void criarFichaMedica() {
@@ -70,7 +73,7 @@ public class Main {
            
             // LÊ OS DADOS DO PACIENTE, SALVANDO COM UMA FORMATAÇÃO LEGÍVEL
             writer.write("Nome: " + nome);
-            writer.newLine();
+            writer.newLine(); //adiciona mais uma linha ao arquivo
             writer.write("Idade: " + idade + " anos");
             writer.newLine();
             writer.write("Genero: " + genero);
