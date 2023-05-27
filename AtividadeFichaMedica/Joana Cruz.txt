@@ -1,5 +1,5 @@
-Nome: Joana Cruz
-Idade: 20 anos
+Nome: joana cruz
+Idade: 21 anos
 Genero: feminino
-Altura: 1.8 metros
-Peso: 80.0 kg
+Altura: 1.7 metros
+Peso: 60.0 kg
